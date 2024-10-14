@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on various school Projects
+- 🌱 I’m currently learning PHP
+- 📫 How to reach me: Discord:taube08
+- 😄 Pronouns: He/Him
+
+
 <!--
 **Taube08/Taube08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
